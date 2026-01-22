@@ -28,3 +28,32 @@
 html {
   font-family: 'Pretendard Variable', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
 }
+
+/* Admonition 커스터마이징 예시 */
+/* 아래 CSS 변수를 수정하여 색상을 변경할 수 있습니다 */
+
+/* 예시: NOTE 타입의 색상 변경
+:root {
+  --adm-note-border: #3b82f6;
+  --adm-note-bg: #dbeafe;
+  --adm-note-text: #1e3a8a;
+}
+
+html.dark {
+  --adm-note-bg: #1e3a5f;
+  --adm-note-text: #bfdbfe;
+}
+*/
+
+/* 예시: 커스텀 NOTE 스타일 (인디고 테마)
+:root {
+  --adm-note-border: #6366f1;
+  --adm-note-bg: #e0e7ff;
+  --adm-note-text: #3730a3;
+}
+
+html.dark {
+  --adm-note-bg: #312e81;
+  --adm-note-text: #c7d2fe;
+}
+*/
