@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Logit Studio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Logit Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>hello@goodjinc.com (GOODJINC)</managingEditor>
+    <webMaster>hello@goodjinc.com (GOODJINC)</webMaster>
+    <copyright>© 2026 GOODJINC</copyright>
+    <lastBuildDate>Wed, 21 Jan 2026 23:45:12 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 21 Jan 2026 23:45:12 +0900</pubDate>
+      <author>hello@goodjinc.com (GOODJINC)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hello World!&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Pravacy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Wed, 21 Jan 2026 23:45:12 +0900</pubDate>
+      <author>hello@goodjinc.com (GOODJINC)</author>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;개인정보처리방침&#xD;&#xA;    &lt;div id=&#34;개인정보처리방침&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;1. 개인정보의 수집 및 이용 목적&#xD;&#xA;    &lt;div id=&#34;1-개인정보의-수집-및-이용-목적&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Logitstudio는 Duolog 등 앱 서비스 제공을 위해 최소한의 개인정보를 수집 및 이용합니다. 수집된 정보는 오직 서비스 제공 및 기능 개선 목적으로만 사용되며 다른 목적으로는 사용되지 않습니다.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>http://localhost:1313/support/</link>
+      <pubDate>Wed, 21 Jan 2026 23:45:12 +0900</pubDate>
+      <author>hello@goodjinc.com (GOODJINC)</author>
+      <guid>http://localhost:1313/support/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Support &amp;amp; Help&#xD;&#xA;    &lt;div id=&#34;support--help&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;서비스 이용에 필요한 정보를 찾거나 도움을 요청하세요.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Alias Flow</title>
+      <link>http://localhost:1313/projects/alias-flow/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <author>hello@goodjinc.com (GOODJINC)</author>
+      <guid>http://localhost:1313/projects/alias-flow/</guid>
+      <description>Alias Flow는 사용자가 직접 정의한 별칭(Alias)과 한글 초성 검색을 지원하는 Flow Launcher 전용 플러그인입니다. 복잡한 프로그램 경로와 긴 웹사이트 주소를 단 몇 글자의 키워드로 실행하여 업무 효율을 극대화합니다. 한글 초성 검색과 다중 별칭 매핑, Zero-Dependency, 통합 런처, 간편한 백업 등 다양한 기능과 편의성 등을 제공합니다.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/alias-flow/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+/* 게시글 본문 너비 설정 */
+.article-content {
+  max-width: 100% !important;
+}
+
+
+/*로고 사이즈 수정*/
+.logo {
+  max-width: 10rem;
+  max-height: 10rem;
+}
+
+/* 헤더 타이틀 스타일 */
+.main-menu > a.text-base {
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+
+/* Pretendard 폰트 */
+@font-face {
+  font-family: 'Pretendard Variable';
+  font-weight: 45 920;
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/PretendardVariable.woff2') format('woff2-variations');
+}
+
+html {
+  font-family: 'Pretendard Variable', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+}
