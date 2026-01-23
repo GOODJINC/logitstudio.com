@@ -1,6 +1,6 @@
 ---
 title: "Support"
-date: 2026-01-21
+date: 2026-01-01
 hideTitle: true
 showTableOfContents: false
 ---

@@ -1,0 +1,14 @@
+{{- $icon := .Get "icon" -}}
+<div class="flex mt-2">
+  <span
+    class="rounded-full bg-keyword-back
+    dark:bg-primary-400 text-keyword-text dark:text-neutral-800 px-3 py-1.5 text-xs font-normal">
+    <span class="flex flex-row items-center">
+      {{- if $icon -}}
+        <span class="mr-1">{{ partial "icon" $icon }}</span>
+      {{- end -}}
+      <span> {{- .Inner | markdownify -}} </span>
+    </span>
+  </span>
+</div>
+{{- /* Trim EOF */ -}}

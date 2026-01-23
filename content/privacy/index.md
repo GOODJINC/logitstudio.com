@@ -1,6 +1,6 @@
 ---
 title: "Pravacy"
-date: 2026-01-21T23:45:12+09:00
+date: 2026-01-01
 hideTitle: true
 ---
 
@@ -24,8 +24,8 @@ Logitstudio의 앱은 회원 가입 시 아래와 같은 정보를 수집할 수
 
 ## 3. 서비스 이용 기록(가계부, 일기 등)의 처리
 
-Duolog와 Monolog 등 Logitstudio가 제공하는 앱에 사용자가 직접 입력한 가계부 내역, 일기 내용, 메모 등 모든 **이용 기록(콘텐츠 데이터)** 은 오직 사용자의 **Supabase 데이터베이스에 암호화되어 저장** 됩니다. Logitstudio는 서버 관리 목적 외에는 해당 데이터를 열람하거나 서비스 외의 목적으로 이용하지 않습니다.
-특히 Duolog의 공유 기능은 사용자가 초대한 **특정 이용자(부부)** 끼리만 데이터에 접근 가능하도록 설계되어 있습니다.
+Duolog 등 Logitstudio가 제공하는 앱에 사용자가 직접 입력한 모든 **이용 기록(콘텐츠 데이터)** 은 오직 사용자의 **Supabase 데이터베이스에 암호화되어 저장** 됩니다. Logitstudio는 서버 관리 목적 외에는 해당 데이터를 열람하거나 서비스 외의 목적으로 이용하지 않습니다.
+특히 Duolog의 공유 기능은 사용자가 초대한 **특정 이용자** 끼리만 데이터에 접근 가능하도록 설계되어 있습니다.
 
 ## 4. 개인정보의 보유 및 파기
 
@@ -33,4 +33,4 @@ Duolog와 Monolog 등 Logitstudio가 제공하는 앱에 사용자가 직접 입
 
 ## 5. 개인정보 보호 책임자
 
-보호 책임자: [goodjinc](mailto:contact@logitstudio.com)
+보호 책임자: [GOODJINC](mailto:contact@logitstudio.com)

@@ -1,6 +1,7 @@
 /* 게시글 본문 너비 설정 */
 .article-content {
-  max-width: 100% !important;
+  max-width: 80% !important;
+  margin: 0 auto;
 }
 
 
@@ -13,7 +14,8 @@
 /* 헤더 타이틀 스타일 */
 .main-menu > a.text-base {
   font-weight: 700;
-  font-size: 1.25rem;
+  font-size: 1.3rem;
+  color: #4F39F6
 }
 
 /* Pretendard 폰트 */
@@ -29,31 +31,40 @@ html {
   font-family: 'Pretendard Variable', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
 }
 
-/* Admonition 커스터마이징 예시 */
-/* 아래 CSS 변수를 수정하여 색상을 변경할 수 있습니다 */
-
-/* 예시: NOTE 타입의 색상 변경
-:root {
-  --adm-note-border: #3b82f6;
-  --adm-note-bg: #dbeafe;
-  --adm-note-text: #1e3a8a;
+.bg-keyword-back {
+  background-color: #EEF2FF;
+}
+.text-keyword-text {
+  color: #4F39F6;
 }
 
-html.dark {
-  --adm-note-bg: #1e3a5f;
-  --adm-note-text: #bfdbfe;
+/* 커스텀 폰트 사이즈 */
+.text-5xl {
+  font-size: 3rem;
 }
-*/
-
-/* 예시: 커스텀 NOTE 스타일 (인디고 테마)
-:root {
-  --adm-note-border: #6366f1;
-  --adm-note-bg: #e0e7ff;
-  --adm-note-text: #3730a3;
+.text-6xl {
+  font-size: 3.75rem;
+}
+.text-7xl {
+  font-size: 4.5rem;
 }
 
-html.dark {
-  --adm-note-bg: #312e81;
-  --adm-note-text: #c7d2fe;
+/* 커스텀 줄 간격 */
+.leading-none {
+  line-height: 1;
 }
-*/
+.leading-tight {
+  line-height: 1.25;
+}
+.leading-snug {
+  line-height: 1.375;
+}
+.leading-normal {
+  line-height: 1.5;
+}
+.leading-relaxed {
+  line-height: 1.625;
+}
+.leading-loose {
+  line-height: 2;
+}
