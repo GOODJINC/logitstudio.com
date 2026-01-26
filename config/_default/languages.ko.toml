@@ -12,11 +12,11 @@ title = "Logit Studio"
 
 [params.author]
   name = "GOODJINC" # 작가명
-  email = "hello@goodjinc.com" # 작가 이메일
+  email = "contact@logitstudio.com" # 작가 이메일
   image = "img/author.jpg" # 작가 프로필 이미지
-  headline = "1%의 당신으로부터" # Homepage에서 표현되는 문장
-  bio = "1%의 당신으로부터" # 게시글 내 작가의 한마디에 표현되는 문장
+  headline = "1%의 당신으로부터"
+  bio = "1%의 당신으로부터"
   links = [
-    { email = "mailto:hello@goodjinc.com" },
-    { github = "https://github.com/goodjinc" },
+    { email = "mailto:contact@logitstudio.com" },
+    { github = "https://github.com/logitstudio" },
   ]
